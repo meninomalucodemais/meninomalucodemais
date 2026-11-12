@@ -1,16 +1,15 @@
-## Hi there 👋
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:1E90FF&height=220&section=header&text=meninomalucodemais&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20e%20HTML&descAlignY=58&descSize=20" width="100%"/> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=1E90FF&center=true&vCenter=true&width=500&lines=Jogo+da+velha;Calculadora;Jogo+do+dinossauro" alt="Typing SVG" /> </div>
+Sobre mim
 
-<!--
-**meninomalucodemais/meninomalucodemais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estou aprendendo Python e treino fazendo jogos e programas pequenos. Os projetos abaixo são o que já terminei.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tecnologias
+<p align="center"> <img src="https://img.shields.io/badge/Python-1E90FF?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-0A66C2?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/> </p>
+Projetos
+Projeto	O que faz
+Jogo de adivinhar número	Você tenta acertar um número de 1 a 100
+Jogo da velha	Jogo da velha no terminal, em Python
+Jogo do dinossauro	Recriação do jogo em HTML
+Verificador de idade	Calcula a idade a partir do ano de nascimento
+Calculadora	Calculadora em Python
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=meninomalucodemais&show_icons=true&theme=blue-green&hide_border=true&bg_color=0D1117" height="160"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meninomalucodemais&layout=compact&theme=blue-green&hide_border=true&bg_color=0D1117" height="160"/> </p> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,50:2C5364,100:0F2027&height=120&section=footer" width="100%"/> </div>
